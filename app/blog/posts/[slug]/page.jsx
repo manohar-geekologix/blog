@@ -2,6 +2,7 @@ import fs from 'fs';
 import Markdown from 'markdown-to-jsx';
 import matter from 'gray-matter';
 import getPostMetaData from '../../../../components/getPostMetaData';
+import Image from 'next/image';
 
 const getPostContent = (slug) => {
   const folder = "posts/";
@@ -24,7 +25,7 @@ const page = ({ params }) => {
   const slug = params.slug;
   const post = getPostContent(slug);
   return (
-    <div className='container mx-auto p-4 md:p-0'>
+    <div className='container mx-auto p-4 border border-1'>
       <div className="my-12 text-center">
         <h1 className='text-4xl font-extrabold'>
           {post.data.title}

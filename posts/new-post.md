@@ -1,6 +1,6 @@
 ---
 title: "New Media Flak: Megaphone vs. Cocktail Party"
-subtitle: " A recent back and forth in the opinion pages of GW's paper of note brought to light an emerging divide in publicists' approaches to social media."
+subtitle: " A recent back and forth in the opinion pages of GW"
 date: "2021-07-12"
 img: 'https://cdn.tailgrids.com/2.0/image/application/images/cards/card-01/image-02.jpg'
 ---
