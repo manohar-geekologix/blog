@@ -1,5 +1,4 @@
 import Image from "next/image";
-import { Info } from "./_icons/info";
 
 export default function Intro() {
     return (

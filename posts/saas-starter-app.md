@@ -2,6 +2,7 @@
 title: "Building a serverless SaaS product"
 subtitle: "A full-stack SaaS project with authentication and payments."
 date: "2021-07-12"
+img: 'https://cdn.tailgrids.com/2.0/image/application/images/cards/card-01/image-02.jpg'
 ---
 
 The [SaaS (software as a service)](https://en.wikipedia.org/wiki/Software_as_a_service) model underpins many of today's successful new businesses. Knowing how to build one from start to finish is probably a useful addition to any software developer's skill set.

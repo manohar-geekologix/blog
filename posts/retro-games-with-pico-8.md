@@ -3,6 +3,7 @@ title: "Create retro games with PICO-8"
 subtitle: "8-bit games are a great way to learn and expand your portfolio."
 date: "2020-12-19"
 cr: ["https://www.artstation.com/shizuorin"]
+img: 'https://cdn.tailgrids.com/2.0/image/application/images/cards/card-01/image-02.jpg'
 ---
 
 After watching [High Score](https://www.youtube.com/watch?v=B4jopG1wX88) on Netflix, I was suddenly inspired to develop a retro-style game. I think it was a combination of the aesthetics and nostalgia that motivated me.
@@ -17,9 +18,9 @@ In this post, I'll be discussing why you should try your hand at retro-game deve
 
 For new programmers especially, a retro game project is:
 
-- A great way to learn programming.
-- An excellent addition to your portfolio.
-- An effective way of prototyping new ideas (see [CELESTE](<https://en.wikipedia.org/wiki/Celeste_(video_game)>)).
+-  A great way to learn programming.
+-  An excellent addition to your portfolio.
+-  An effective way of prototyping new ideas (see [CELESTE](<https://en.wikipedia.org/wiki/Celeste_(video_game)>)).
 
 The constraints of using "retro technology" creates a harsh environment to develop in.
 
@@ -121,9 +122,9 @@ So, if you like the sound of creating your own retro-game from scratch — eithe
 
 Once you've nailed the basics, here are some classic titles you could try to implement (and possibly extend):
 
-- [Pong](https://en.wikipedia.org/wiki/Pong) (1972)
-- [Space Invaders](https://en.wikipedia.org/wiki/Space_Invaders) (1978)
-- [Pac-Man](https://en.wikipedia.org/wiki/Pac-Man) (1980)
-- [Snake](<https://en.wikipedia.org/wiki/Snake_(video_game_genre)>) (1997)
+-  [Pong](https://en.wikipedia.org/wiki/Pong) (1972)
+-  [Space Invaders](https://en.wikipedia.org/wiki/Space_Invaders) (1978)
+-  [Pac-Man](https://en.wikipedia.org/wiki/Pac-Man) (1980)
+-  [Snake](<https://en.wikipedia.org/wiki/Snake_(video_game_genre)>) (1997)
 
 Or if you're feeling more ambitious, you could even try to implement a [Mario](https://en.wikipedia.org/wiki/Super_Mario_Bros.) clone!
