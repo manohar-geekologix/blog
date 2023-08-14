@@ -10,7 +10,7 @@
 @layer base {
     html{
         /* @apply bg-gray-600 text-white; */
-        font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+        font-family: Verdana, Geneva, Tahoma, sans-serif;
     }
     .intro-button{
         @apply transition text-xl bg-sakura-light h-10 shadow-inner shadow-sakura 
